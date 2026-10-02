@@ -1,0 +1,19 @@
+{
+  "wheel_id": 331,
+  "structure": "umbrella",
+  "slug": "bathrenovationmelbourne-com-151",
+  "project": "bathroom-renovations-melbourne-fdb41877568f1fdfc1289c3d5dba8f80",
+  "parent_t1_ref": "bathrenovationmelbourne.com-003",
+  "node_role": "buffer",
+  "money_target": "bathrenovationmelbourne.com.au",
+  "primary_kw": "bathroom renovations melbourne",
+  "intended_url": "https://sitesau.github.io/bathrenovationmelbourne-com-151/",
+  "writeback_nonce": "0ded9b17f723f567",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/bathroom-renovations-melbourne/",
+      "anchor": "bathroom renovations melbourne",
+      "rel": "follow"
+    }
+  ]
+}
